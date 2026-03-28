@@ -1,7 +1,5 @@
 # Women Safety Analytics
 ### Protecting Women from Safety Threats
-**Amity University — Integrated Project, Semester 5**
-Yatish Jain (A2305323026) · Ankit Kumar (A2305323035) · Lakshay Vir Singh (A2305323071)
 
 ---
 
